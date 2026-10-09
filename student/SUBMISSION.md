@@ -8,7 +8,7 @@
 - MSSV: 2A202602543
 - Email: nguoibian863@gmail.com
 - Link repo (fork): https://github.com/nguoibian863-ai/K4-L2L3-DAY23-TaHoangVinh-2A202602543-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`): PENDING_FINAL_COMMIT
+- Commit hash nộp (`git rev-parse HEAD`): 7732858186ec8300b1ff414c929cf3b3aad5fbe8
 
 ## Tóm tắt kết quả
 
